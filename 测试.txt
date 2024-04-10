@@ -1,0 +1,215 @@
+﻿
+//      >>> 当前时间是：2024-04-10 11:18:50 <<<
+//  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
+//  当前接口：http://饭太硬.top/tv
+
+{
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712494041762/fan.txt;md5;013794cda7f4898b65b8a7f7382cc5a1",
+"wallpaper":"https://深色壁纸.xxooo.cf/",
+"sites":[
+{"key":"豆豆","name":"🌕公众号【神秘的哥哥们】","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://api.wogg.xyz/","danMu":"弹"}},
+{"key":"YGP","name":"🚀叨观荐影┃新片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
+{"key":"短剧","name":"🌈上头┃短剧","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/上头短剧.js","searchable":1,"quickSearch":1,"changeable":0},
+{"key":"酷看","name":"💡酷看┃秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"原创","name":"☀原创┃无广","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"苹果","name":"🍎苹果┃无广","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"白嫖","name":"👻白飘┃无广","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/"},
+{"key":"视觉","name":"👓视觉┃直连","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/"},
+{"key":"厂长","name":"📔厂长┃无广","type":3,"api":"csp_Czsapp","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czys01.com/"},
+{"key":"南瓜","name":"🎃南瓜┃App","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"农民","name":"🌾农民┃秒播","type":3,"api":"csp_Nmys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"},
+{"key":"七七","name":"👒七七┃秒播","type":3,"api":"csp_Kunyu77","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"低端","name":"⏮️低端┃外剧","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"毛驴","name":"🍓毛驴┃直连","type":3,"api":"csp_MLYS","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},
+{"key":"萌米","name":"👀萌米┃App","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
+{"key":"比特","name":"🍄比特┃秒播","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"一起看","name":"🎉一起┃App","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"zxzj","name":"🍊在线┃外剧","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"},
+{"key":"Lib","name":"🌟立播┃直连","type":3,"api":"csp_Libvio","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.pw/"},
+{"key":"Auete","name":"🏝奥特┃直连","type":3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.pro/"},
+{"key":"贱贱","name":"🐭贱贱┃p2p","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/荐片.js"},
+{"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://www.xb6v.com/"},
+{"key":"csp_Dm84","name":"🚌动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_Ying","name":"💮樱花┃动漫","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_Ysj","name":"🎀异界┃动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_Anime1","name":"🐾日本┃动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"changeable":1},
+{
+      "key": "*色猫资源",
+      "name": "*色猫资源",
+      "type": 1,
+      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+      "searchable": 1,
+      "quickSearch": 0
+    },
+    {
+      "key": "*色南国资源",
+      "name": "*色南国资源",
+      "type": 1,
+      "api": "https://api.sexnguon.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0
+    },
+    {
+      "key": "*抖阴视频",
+      "name": "*抖阴视频",
+      "type": 1,
+      "api": "https://www.888dav.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0
+    },
+    {
+      "key": "*麻豆视频2",
+      "name": "*麻豆视频2",
+      "type": 1,
+      "api": "https://madouse.la/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0
+    },
+    {
+      "key": "*蛋蛋视频",
+      "name": "*蛋蛋视频",
+      "type": 1,
+      "api": "https://156.249.29.8/inc/apijson_vod.php",
+      "searchable": 1,
+      "quickSearch": 0
+    },
+    {
+      "key": "*91麻豆",
+      "name": "*91麻豆",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0
+    },
+    {
+      "key": "(18+)环亚资源",
+      "name": "(18+不错)环亚资源",
+      "type": 0,
+      "api": "http://wmcj8.com/inc/sapi.php?ac=videolist",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "ms4nii",
+      "name": "美少女资源(已修复)",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "KxrbspE",
+      "name": "淫水机资源(已修复)",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "gdlsE",
+      "name": "香奶儿资源(已修复)",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "kxgav",
+      "name": "白嫖资源(已修复)",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "afasu",
+      "name": "小湿妹资源(已修复)",
+      "type": 0,
+      "api": "https://www.afasu.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "KpgxdyE",
+      "name": "黄AV资源(已修复)",
+      "type": 0,
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ap4i156dlyE",
+      "name": "奶茶资源(已修复)",
+      "type": 0,
+      "api": "https://caiji.naichaapi.com/inc/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "api.apilyzy.com",
+      "name": "成人71",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    },{
+      "key": "大地采集",
+      "name": "🔞大地av",
+      "type": 0,
+      "api": "https://dadiapi.com/apple_m3u8.php",
+      "playUrl": "https://play.dadiapi.com/watch?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },{
+      "key": "pgxdy",
+      "name": "🔞PGX电影",
+      "type": 0,
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },{
+      "key": "zp128",
+      "name": "🔞鲨鱼影视",
+      "type": 0,
+      "api": "https://shayuapi.com/api.php/Seacms/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },{
+      "key": "*易看资源",
+      "name": "🔞易看资源",
+      "type": 1,
+      "api": "https://api.yikanapi.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    }, {
+      "key": "*番号资源",
+      "name": "🔞番号资源",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+{"key":"88js","name":"⚽88┃看球","type":3,"api":"csp_Kanqiu","style":{"type":"list"},
+"searchable":0,"quickSearch":0,"changeable":0},
+{"key":"Jrsjs","name":"⚽Jrs┃球迷","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/jrk.js","style":{"type":"list"},
+"searchable":0,"quickSearch":0,"changeable":0},
+{"key":"310js","name":"⚽310┃看球","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/310直播.js","style":{"type":"list"},
+"searchable":0,"quickSearch":0,"changeable":0},
+{"key":"企鹅体育xp","name":"🐧鹅鹅┃体育","type":3,"api":"csp_XPath","style":{"type":"list"},
+"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/企鹅直播.json"},
+{"key":"酷奇","name":"🎤酷奇┃MV","type":3,"api":"https:
